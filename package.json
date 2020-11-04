@@ -1,13 +1,13 @@
 {
-  "name": "seed",
+  "name": "task",
   "version": "1.0.0",
-  "description": "seed for start up",
+  "description": "task for node",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
-  "author": "Balakrishnan",
+  "author": "muthukumar",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
